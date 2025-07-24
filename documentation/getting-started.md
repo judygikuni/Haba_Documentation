@@ -1,62 +1,56 @@
 
 # Getting Started
 
-## For Customers
+Welcome to the Gorzo platform! This guide will help you get set up and start using the platform, whether you are a **Mama Mboga**(Vendor) or a **customer**.
 
-### Step 1: Download the Android App
+## Platform Overview
 
-- Visit the Google Play Store and search Haba
-- Tap install to download the app to your phone
+Gorzo consists of two main applications:
 
-![alt text](Images/Downloadingapp.png)
+- **Mama Mboga Progressive Web App (PWA):** Accessed via web browsers for vendors to manage inventory, orders, and sales.
+- **Customer Mobile App:** A mobile app for customers to browse products, join group orders, and make payments.
 
-### Step 2: Creating Your Account 
+## Accessing the Application
 
-- Open the app and tap **Sign Up** 
-- Enter your phone number and other requested details. 
-- Set your location to help you find Mama Mbogas near you. 
+### For Mama Mboga (Vendor)
 
-![alt text](Images/SignUpapp.png)
-
-### Step 3: Browsing and Shopping
-
-- After logging in, there are mama mbogas near you and you can be able to browse available groceries, add items to the cart and review prices. 
-- One can decide to join a group for discount or buy individually. 
-
-![alt text](Images/homepageapp.png)
-
-### Step 4: Buying through groups
-
-- Customers can make or join groups that are made depending on the products that are available.
-- A minimum quantity, set by the mama mboga needs to be met for the product to be sold. 
-- Also the groups are open for 8 - 48 hours until now they are closed if the minimum quantity is not met. 
-
-![alt text](Images/groupcreateapp.png)
-
-### Step 5: Checkout and Payment
-
-- Review the order and proceed to checkout.
-- Select the prefered method of payment, either pay on delivery or M-Pesa. 
-
-![alt text](Images/paymentcheckoutapp.png)
+1. Open your preferred web browser on your phone.
+2. Go to the Gorzo PWA URL.
+3. If you don’t have an account, click **Register** to create a new vendor account.
+4. Fill in required details, including name, location, and contact.
+5. Once registered, log in with your credentials to access your dashboard.
 
 
-## For Vendors(Mama Mboga)
+### For Customers
 
-### Step 1: Accessing the Progressive Web App (PWA).
+1. Download the Gorzo mobile app from your device’s app store:
+2. Open the app and tap **Sign Up** to create a new account.
+3. Enter your personal details and set a password.
+4. Verify your account as prompted.
+5. Log in to start browsing products and joining group orders.
 
-- Click **Sign Up** and fill in the business details.
 
-![alt text](Images/SignUpapp.png)
+## Basic Navigation
 
-### Step 2: Setting Up Your Shop
-- Adding the inventory: products, set prices, and update stock.
-- Adding the descriptions for each product.
 
-![alt text](Images/inventoryapp.png)
+### Vendor PWA
 
-### Step 3: Managing Orders
-- View incoming individual and group orders.
-- Track order status, payments, and prepare items for pick-up.
+- **Dashboard:** View order summaries, sales performance, and notifications.
+- **Inventory:** Add, update, or remove products.
+- **Orders:** Track group and individual orders.
+- **Payments:** Monitor received payments through M-Pesa.
 
-![alt text](<Images/pending and fulfilledapp.png>)
+### Customer Mobile App
+
+- **Browse:** Search and filter products by category or vendor.
+- **Cart:** Add products for purchase.
+- **Groups:** Join or create group orders for discounts and bulk buying.
+- **Notifications:** Receive alerts for group deals and order updates.
+
+## Need Help?
+
+- Visit our [FAQs](faq.md) for common questions. 
+
+
+Proceed to the [Vendor Guide](vendor-guide.md) or [Customer Guide](customer-guide.md) for detailed instructions on using each app. 
+

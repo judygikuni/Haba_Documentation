@@ -1,40 +1,33 @@
+# Introduction
+
+Welcome to the Gorzo platform documentation
+
+## Overview
+
+Gorzo is a digital solution designed to empower informal grocery vendors in Kenya, commonly known as **Mama Mboga**, by connecting them with the tech-savvy youth market. This platform bridges the gap between traditional vendors and modern consumers through a dual-application approach:
+
+    - A **Progressive Web App (PWA)** for Mama Mboga vendors to manage inventory, process orders, and track sales.
+    - A **mobile app** for customers to browse products, join group orders, and conveniently make payments.  
+
+The project aims to improve efficiency, increase sales, reduce waste from spoiled groceries, and support local economic participation by enabling broader market access.
 
 
-# HABA APPLICATION DOCUMENTATION
+## Problem Statement
 
-Haba is a digital platform that bridges the gap between informal grocery vendors in Kenya and customer. 
-Inspired by the research done, our solution aims to empower Mama Mboga to reach new customers, reduce spoilage, and manage inventory while still providing customers with convinience and better prices. 
-
-
-
-# Problem Statement 
-
-Mama Mboga, who is experiencing low customer turnover and low sales, needs a digital way to sell her products so that she can reach most of the consumers who spend most of their time online.  
-How might we help Mama Mboga increase her sales by moving her online to reach a larger market?
+Mama Mboga vendors currently face challenges such as low customer turnover, unsold stock, and fluctuating income. Most consumers, especially the youth, spend significant time online, yet these vendors lack digital channels to tap into this market.
+   
+   **How might we help Mama Mboga increase her sales by moving her business online to reach a larger market?**
 
 
+## Target Users
+
+- **Mama Mboga (Grocery Vendors):** Looking for a simple and cost-effective way to digitize sales and inventory management.
+- **Consumers:** Busy, tech-savvy customers seeking convenience, variety, and reliable produce without visiting multiple stores.
 
 
+## Goals of this Documentation
 
-# Who is it for
-  
-  Grocery vendors("Mama Mboga) - Seeking to grow sales and manage their business digitally
-
-  Customers - Seeking convinience, variety, and saving in grocery shopping
+This documentation will guide both vendors and customers on how to effectively use the Gorzo platform. It includes user guides, workflows, FAQs, and technical details to ensure a smooth experience and successful platform adoption.
 
 
-
-
-
-# Solution Overview
-
-We offer
- - A mobile application for the customers that allows them to;
-            - Add products to cart
-            - Create groups 
-            - Join Groups
-            - Make payments via mobile money(M-Pesa) and cash delivery
- - A progressive web app for mama mboga that allows them to;
-            - Manage inventory
-            - Process and track orders
- 
+For detailed guides, please proceed to the [Getting Started](getting-started.md) section. 
