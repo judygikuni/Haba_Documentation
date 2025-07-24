@@ -1,7 +1,7 @@
 
 # Getting Started
 
-Welcome to the Gorzo platform! This guide will help you get set up and start using the platform, whether you are a **Mama Mboga**(Vendor) or a **customer**.
+This guide will help you get set up and start using the platform, whether you are a **Mama Mboga**(Vendor) or a **customer**.
 
 ## Platform Overview
 
@@ -35,7 +35,7 @@ Gorzo consists of two main applications:
 
 ### Vendor PWA
 
-- **Dashboard:** View order summaries, sales performance, and notifications.
+- **Homepage:** View order summaries, sales performance, and notifications.
 - **Inventory:** Add, update, or remove products.
 - **Orders:** Track group and individual orders.
 - **Payments:** Monitor received payments through M-Pesa.

@@ -9,7 +9,8 @@ Welcome to the Gorzo Vendor Guide! This guide will help you, as a Mama Mboga ven
 - Log in using your registered username and password.
 - If you don’t have an account, use the **Register** option to sign up.
 
-![alt text](Images/getstartedapp.png)    ![alt text](Images/SignUpapp.png)
+![alt text](Images/getstartedapp.png)    
+![alt text](Images/SignUpapp.png)
 
 
 ## 2. Managing Your Inventory

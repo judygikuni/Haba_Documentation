@@ -1,6 +1,6 @@
 # Gorzo Product Documentation
 
-Welcome to the official documentation repository for **Gorzo**, a digital platform that empowers informal grocery vendors in Kenya, known as **Mama Mboga**, to connect with tech-savvy youth customers through a Progressive Web App and a native mobile app.
+Welcome to the official documentation repository for **Gorzo**, a digital platform that empowers informal grocery vendors in Kenya, known as **Mama Mboga**, to connect with customers through a Progressive Web App and a mobile app.
 
 
 ## Project Overview
@@ -19,14 +19,14 @@ The platform aims to increase vendor sales, reduce grocery spoilage, and support
 
 Explore detailed documentation organized by topic:
 
-- [Introduction](docs/introduction.md): Overview of Gorzo, its purpose, users, and problem statement.
-- [Getting Started](docs/getting-started.md): How to access and begin using the vendor and customer applications.
-- [Vendor Guide](docs/vendor-guide.md): Step-by-step instructions for Mama Mboga vendors on managing inventory, orders, and payments.
-- [Customer Guide](docs/customer-guide.md): Instructions for customers on browsing products, joining group orders, and making payments.
-- [Group Buying System](docs/group-buying.md): Explanation of the group buying feature and workflow.
-- [FAQs](docs/faqs.md): Frequently asked questions covering both vendors and customers.
-- [Technical Information](docs/technical-info.md): System architecture, technology stack, and key integrations.
+- [Introduction](documentation/introduction.md): Overview of Gorzo, its purpose, users, and problem statement.
+- [Getting Started](documentation/getting-started.md): How to access and begin using the vendor and customer applications.
+- [Vendor Guide](documentation/vendor-guide.md): Step-by-step instructions for Mama Mboga vendors on managing inventory, orders, and payments.
+- [Customer Guide](documentation/customer-guide.md): Instructions for customers on browsing products, joining group orders, and making payments.
+- [Group Buying System](documentation/group-buying.md): Explanation of the group buying feature and workflow.
+- [FAQs](documentation/faqs.md): Frequently asked questions covering both vendors and customers.
+- [Technical Information](documentation/technical-info.md): System architecture, technology stack, and key integrations.
 
 
 
-Thank you for using Gorzo — empowering local vendors and enhancing grocery shopping convenience!
+Thank you for using Gorzo, empowering local vendors and enhancing grocery shopping convenience.
