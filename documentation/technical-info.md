@@ -61,3 +61,5 @@ The Gorzo platform is built using the following technology stack:
 
 This stack ensures a maintainable, scalable, and performant architecture tailored to the needs of both vendors and customers on the Gorzo platform.
 
+For detailed guides, please proceed to the [Getting Started](getting-started.md) section.
+
