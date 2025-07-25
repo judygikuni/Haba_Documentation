@@ -3,12 +3,12 @@
 ## For Mama Mboga Vendors
 
 ### 1. How do I register as a Mama Mboga on the Gorzo platform?
-- Visit the Gorzo PWA URL on your browser.
+- Download the mobile app from the phone store
 - Click on the **Register** button and fill in your details including shop name, location, and contact information.
 - Verify your account as instructed to complete registration.
 
 ### 2. How do I add or update my product inventory?
-- Log in to your vendor dashboard.
+- Log in to your vendor app.
 - Go to the **Inventory** section.
 - To add a new product, click **Add Product**, fill in the details, and save.
 - To update existing products, select the product, modify the details, and save changes.

@@ -37,7 +37,7 @@ The Gorzo platform offers a **Group Buying** feature that enables customers to j
 
 
 ### For Vendors
-- Monitor active group orders through the vendor PWA dashboard.
+- Monitor active group orders through the vendor app.
 - Prepare products for group orders once minimum thresholds are met.
 - Track payment statuses and coordinate order pickup logistics with customers.
 

@@ -6,8 +6,7 @@ Welcome to the Gorzo platform documentation
 
 Gorzo is a digital solution designed to empower informal grocery vendors in Kenya, commonly known as **Mama Mboga**, by connecting them with the tech-savvy youth market. This platform bridges the gap between traditional vendors and modern consumers through a dual-application approach:
 
-    - A Progressive Web App (PWA) for Mama Mboga vendors to manage inventory, process orders, and track sales.
-    - A mobile app for customers to browse products, join group orders, and conveniently make payments.  
+ - A mobile app for both the Mama Mboga to manage inventory and track sales and the customer to browse products, join group orders, and conveniently make payments.  
 
 The project aims to improve efficiency, increase sales, reduce waste from spoiled groceries, and support local economic participation by enabling broader market access.
 

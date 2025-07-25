@@ -1,6 +1,6 @@
 # Gorzo Product Documentation
 
-Welcome to the official documentation repository for **Gorzo**, a digital platform that empowers informal grocery vendors in Kenya, known as **Mama Mboga**, to connect with customers through a Progressive Web App and a mobile app.
+Welcome to the official documentation repository for **Gorzo**, a digital platform that empowers informal grocery vendors in Kenya, known as **Mama Mboga**, to connect with customers through a mobile app.
 
 
 ## Project Overview

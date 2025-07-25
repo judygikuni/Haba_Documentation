@@ -1,11 +1,12 @@
 # Vendor Guide (Mama Mboga PWA)
 
-Welcome to the Gorzo Vendor Guide! This guide will help you, as a Mama Mboga vendor, to effectively use the Progressive Web App (PWA) to manage your inventory, process orders, view sales performance, and handle payments.
+Welcome to the Gorzo Vendor Guide. 
+This guide will help you, as a Mama Mboga vendor, to effectively use the Progressive Web App (PWA) to manage your inventory, process orders, view sales performance, and handle payments.
 
 
 ## 1. Accessing the Vendor Portal
 
-- Open your web browser and go to the Gorzo PWA URL.
+- Download Haba application on your phone store.
 - Log in using your registered username and password.
 - If you don’t have an account, use the **Register** option to sign up.
 

@@ -8,8 +8,8 @@ This section provides an overview of the Gorzo platform's technical architecture
 The Gorzo platform utilizes a dual-application approach supported by a centralized backend.
 
 -   **Customer Mobile App:** A native mobile application developed for both iOS and Android platforms.
--   **Mama Mboga Progressive Web App (PWA):** A web-based application accessible via modern web browsers, designed to provide a native-like experience for vendors.
--   **Backend System:** A robust and scalable server-side infrastructure that handles data storage, business logic, API management, and integration services. This system orchestrates interactions between the mobile app, PWA, and third-party services.
+-   **Mama Mboga Mobile App:** A mobile application accessible via the phone store, designed to provide a native-like experience for vendors.
+-   **Backend System:** A robust and scalable server-side infrastructure that handles data storage, business logic, API management, and integration services. This system orchestrates interactions between the mobile app and third-party services such as location and M-Pesa.
 
 *For a detailed visual representation of the system components and their interactions, please refer to the [System Architecture Link](https://lucid.app/lucidchart/6bd58d2a-b47f-4787-b17b-04b7e7fb3fe0/edit?invitationId=inv_1252e4ca-25ed-4e2d-84ac-37266019ae13&referringApp=slack&page=0_0#)
 
@@ -39,20 +39,11 @@ The Gorzo platform incorporates geolocation services to support key functionalit
 By integrating geolocation, Gorzo effectively connects the local community and optimizes the group buying system to be practical and convenient for both vendors and consumers.
 
 
-## 3. Out-of-Scope Features (Initial Release)
-
-The following functionalities are intentionally excluded from the initial release to focus on core features and ensure a streamlined user experience:
-
--   **In-App Communication:** No direct chat or messaging system between vendors and consumers within the application.
--   **Third-Party Delivery Services Integration:** Partnering with external delivery services for logistics is excluded initially.
--   **AI-Powered Personalization:** Advanced AI-driven features for personalized recommendations are not included.
--   **In-App Wallet / Mobile Wallet Integration (beyond M-Pesa):** No proprietary in-app wallet or integration with other mobile wallet services beyond M-Pesa for payment processing.
-
-## 4. Security and Data Handling
+## 3. Security and Data Handling
 
 The platform is designed with security in mind, ensuring data privacy and integrity. Regular security audits and updates will be performed to maintain a secure environment. For more details on regulatory compliance, refer to the [Regulatory and Compliance](regulatory-compliance.md) section.
 
-## 5. Development Environment
+## 4. Development Environment
 
 The Gorzo platform is built using the following technology stack:
 
