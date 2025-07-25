@@ -2,15 +2,15 @@
 
 Welcome to the Gorzo platform documentation
 
-##Table of Content
+## Table of Content
 
-[Introduction](/home/student/Haba_Documentation/documentation/introduction.md)
-[Getting Started](/home/student/Haba_Documentation/documentation/getting-started.md)
-[Customer Guide](/home/student/Haba_Documentation/documentation/customer-guide.md)
-[Group Buying](/home/student/Haba_Documentation/documentation/group-buying.md)
-[Vendor Guide](/home/student/Haba_Documentation/documentation/vendor-guide.md)
-[Technical Info](/home/student/Haba_Documentation/documentation/technical-info.md)
-[FAQs](/home/student/Haba_Documentation/documentation/faqs.md)
+- [Introduction](/home/student/Haba_Documentation/documentation/introduction.md).
+- [Getting Started](/home/student/Haba_Documentation/documentation/getting-started.md).
+- [Customer Guide](/home/student/Haba_Documentation/documentation/customer-guide.md).
+- [Group Buying](/home/student/Haba_Documentation/documentation/group-buying.md).
+- [Vendor Guide](/home/student/Haba_Documentation/documentation/vendor-guide.md).
+- [Technical Info](/home/student/Haba_Documentation/documentation/technical-info.md).
+- [FAQs](/home/student/Haba_Documentation/documentation/faqs.md).
 
 ## Overview
 
