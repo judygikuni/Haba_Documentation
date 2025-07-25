@@ -1,6 +1,4 @@
 # Customer Guide (Gorzo Mobile App)
-# Customer Guide (Gorzo Mobile App)
-# Customer Guide (Gorzo Mobile App)
 
 Welcome to the Gorzo Customer Guide. This guide will help you make the most out of the Gorzo mobile app to conveniently shop for groceries, join group buys, and complete payments.
 
