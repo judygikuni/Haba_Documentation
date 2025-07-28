@@ -78,7 +78,7 @@ Keeping your inventory updated ensures customers see the right products availabl
 - Visit the [FAQs](faqs.md) for common questions and troubleshooting tips.
 
 
-For detailed guides, please proceed to the [Getting Started](getting-started.md) section.
+
 Thank you for being part of the Gorzo platform and helping bring modern grocery shopping solutions to your community!
 
 

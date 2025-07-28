@@ -77,6 +77,5 @@ Welcome to the Gorzo Customer Guide. This guide will help you make the most out 
 - Visit the [FAQs](faqs.md) for answers to common questions.
 
 
-For detailed guides, please proceed to the [Getting Started](getting-started.md) section.
 Enjoy shopping on Gorzo — helping you get fresh groceries conveniently!
 

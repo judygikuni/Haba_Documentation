@@ -70,6 +70,6 @@
 - Yes. We adhere to regulatory and compliance standards to protect your data.
 - For details, visit the [Regulatory and Compliance](regulatory-compliance.md) page.
 
-For detailed guides, please proceed to the [Getting Started](getting-started.md) section.
+
 
 

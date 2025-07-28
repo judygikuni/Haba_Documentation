@@ -5,11 +5,11 @@ Welcome to the Gorzo platform documentation
 ## Table of Content
 
 - [Introduction](introduction.md).
-- [Getting Started](getting-started.md).
 - [Customer Guide](customer-guide.md).
 - [Group Buying](group-buying.md).
 - [Vendor Guide](vendor-guide.md).
 - [Technical Info](technical-info.md).
+- [Regulatory Compliance](regulatorycompliance.md)
 - [FAQs](faqs.md).
 
 ## Overview
@@ -21,12 +21,6 @@ Gorzo is a digital solution designed to empower informal grocery vendors in Keny
 The project aims to improve efficiency, increase sales, reduce waste from spoiled groceries, and support local economic participation by enabling broader market access.
 
 
-## Problem Statement
-
-Mama Mboga vendors currently face challenges such as low customer turnover, unsold stock, and fluctuating income. Most consumers, especially the youth, spend significant time online, yet these vendors lack digital channels to tap into this market.
-   
-   **How might we help Mama Mboga increase her sales by moving her business online to reach a larger market?**
-
 
 ## Target Users
 
@@ -37,6 +31,4 @@ Mama Mboga vendors currently face challenges such as low customer turnover, unso
 ## Goals of this Documentation
 
 This documentation will guide both vendors and customers on how to effectively use the Gorzo platform. It includes user guides, workflows, FAQs, and technical details to ensure a smooth experience and successful platform adoption.
-
-
-For detailed guides, please proceed to the [Getting Started](getting-started.md) section. 
+ 

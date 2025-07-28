@@ -54,4 +54,3 @@ The Gorzo platform offers a **Group Buying** feature that enables customers to j
 - Groups automatically close once the order meets the required quantity.
 - Customers who miss payment deadlines risk losing their place in the group order.
 
-For detailed guides, please proceed to the [Getting Started](getting-started.md) section.
