@@ -9,16 +9,14 @@
 
 ## Key Regulations that Guide Us
 
-| Regulations | Applies To | What it means for Haba |
-|---------------------------------------------------|
-| **Kenya Data Protection Act (DPA), 2019** | Handling of user data, including AI-generated data, payments | User consent, data security, limited data collection, transparency |
-| **Central Bank of Kenya (CBK) Fintech Guidelines** | Digital payments, vendor payout, and group buying | Fraud preventation, vendor verification, payment security|
-| **Computer Misuse and Cybercrimes Act (Kenya)** | Data security and AI safety | Secure AI chatbot, protected database, and fraud preventation |
-| General Data Protection | Global best practices | Data privacy standards |
+| Regulations                                        | Applies To                                                   | What it means for Haba                                                         |
+|----------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------
+| **Kenya Data Protection Act (DPA), 2019**          | Handling of user data, including AI-generated data, payments | User consent, data security, limited data collection, transparency                                                  |
+| **Central Bank of Kenya (CBK) Fintech Guidelines** | Digital payments, vendor payout, and group buying            | Fraud preventation, vendor verification, payment security                                                      |
+| **Computer Misuse and Cybercrimes Act (Kenya)**    | Data security and AI safety                                  | Secure AI chatbot, protected database, and fraud preventation |
+| General Data Protection                            | Global best practices                                        | Data privacy standards                                                     |
 
-|Name|
-|----|
-|Judy|
+
 
 ## How We Address Compliance in Haba
 
