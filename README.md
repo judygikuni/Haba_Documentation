@@ -20,12 +20,11 @@ The platform aims to increase vendor sales, reduce grocery spoilage, and support
 Explore detailed documentation organized by topic:
 
 - [Introduction](documentation/introduction.md): Overview of Gorzo, its purpose, users, and problem statement.
-- [Getting Started](documentation/getting-started.md): How to access and begin using the vendor and customer applications.
-- [Vendor Guide](documentation/vendor-guide.md): Step-by-step instructions for Mama Mboga vendors on managing inventory, orders, and payments.
 - [Customer Guide](documentation/customer-guide.md): Instructions for customers on browsing products, joining group orders, and making payments.
 - [Group Buying System](documentation/group-buying.md): Explanation of the group buying feature and workflow.
 - [FAQs](documentation/faqs.md): Frequently asked questions covering both vendors and customers.
 - [Technical Information](documentation/technical-info.md): System architecture, technology stack, and key integrations.
+- [Regulatory Compliance](documentation/regulatorycompliance.md): Regulations that we seek to follow for our product to be safe and secure. 
 
 
 
