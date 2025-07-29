@@ -16,6 +16,9 @@
 | **Computer Misuse and Cybercrimes Act (Kenya)** | Data security and AI safety | Secure AI chatbot, protected database, and fraud preventation |
 | General Data Protection | Global best practices | Data privacy standards |
 
+|Name|
+|----|
+|Judy|
 
 ## How We Address Compliance in Haba
 
