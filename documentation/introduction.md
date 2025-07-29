@@ -7,7 +7,6 @@ Welcome to the Gorzo platform documentation
 - [Introduction](introduction.md).
 - [Customer Guide](customer-guide.md).
 - [Group Buying](group-buying.md).
-- [Vendor Guide](vendor-guide.md).
 - [Technical Info](technical-info.md).
 - [Regulatory Compliance](regulatorycompliance.md)
 - [FAQs](faqs.md).
