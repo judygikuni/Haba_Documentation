@@ -26,13 +26,23 @@ The Gorzo platform exposes a RESTful API that enables communication between the 
 - **Payments:** Integrates with M-Pesa for seamless mobile money transactions.
 - **Notifications:** Sends alerts related to group buying deals and payment confirmations.
 
+### 2.2 EndPoints
 
-### 2.2 Authentication & Security
+| Endpoint                   |Method         | Description                        |
+|----------------------------|---------------|------------------------------------|
+|`/api/auth/register`        | POST          | Register new user(Customer or Mama Mboga)|
+| `/api/auth/login`          | POST          | Authenticate user and return access token |
+| `/api/auth/products`       | GET           | Retrieve list of products          |
+| `/api/orders`              | POST          | Place a one-time or group order    |
+| `/api/payment/m-pesa`      | POST          | Initiate M-Pesa STK push payment   |
+| `/api/payment/confirmation`| POST          | Receive payment confirmation callback  |
+
+### 2.3 Authentication & Security
 
 The API uses Django auth token for authenticating requests, ensuring secure access control. Sensitive information is encrypted in transit using HTTPS.
 
 
-### 2.3 Integration with Third-Party Services
+### 2.4 Integration with Third-Party Services
 
 - **Location Services:** For accurate vendor and group order location mapping.
 - **M-Pesa Payment Gateway:** For processing mobile money payments via STK Push requests and receiving payment confirmations asynchronously.
